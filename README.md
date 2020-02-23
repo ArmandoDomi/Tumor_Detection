@@ -17,7 +17,7 @@ For every image, the following preprocessing steps were applied:
 <br>2. Convert image from RGB to grayscale.
 <br>3. Use Hog for feature extraction.
 <br>
-<br>After the preprocessing we use either Principal component analysis (PCA) for feature reduction or chi-squared (chi-2) for feature selection. Also there is an option to use only the hog features.
+<br>After the preprocessing we use either Principal component analysis (PCA) for feature reduction. Also there is an option to use only the hog features.
 
 # Machine Learning Models
 Experiments with SVM, Linear-SVM, Random Forest,Logistic Regression using  5-fold cross validation. 
