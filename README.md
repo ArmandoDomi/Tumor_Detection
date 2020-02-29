@@ -100,6 +100,14 @@ The goal is try to make the recall equal to 1 . So the FN must be equal to 0. Th
     <td>0.867</td>
     <td>0.571</td>
   </tr>
+    <tr>
+    <th scope="row">SVM-Additive Chi^2</th>
+    <td>0.894</td>
+    <td>0.857</td>
+    <td>1.0</td>
+    <td>0.923</td>
+    <td>0.714</td>
+  </tr>
   
 </table>
 <br>
