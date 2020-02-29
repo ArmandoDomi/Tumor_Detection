@@ -52,13 +52,14 @@ The goal is try to make the recall equal to 1 . So the FN must be equal to 0. Th
 </table>
 
 # We try to find the best threshold for our problem.
+<br> The threshold is selected based the accuracy of the model and the recall at validation set
 ![Image of thresholds ](https://github.com/armando-domi/Tumor_Detection/blob/master/threshold.png)
 
 
 
 # Results
 <table>
-  <caption>Results for the first dataset with 253 images.:</caption>
+  <caption>Results for the first dataset with 253 images. :</caption>
   <tr>
     <td></td>
     <th scope="col">Accuracy</th>
