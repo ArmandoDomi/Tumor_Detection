@@ -52,7 +52,7 @@ The goal is try to make the recall equal to 1 . So the FN must be equal to 0. Th
 </table>
 
 # We try to find the best threshold for our problem.
-![Image of accuracy ](https://github.com/armando-domi/Celebrity-Classification/blob/master/threshold.png)
+![Image of accuracy ](https://github.com/armando-domi/Tumor_Detection/blob/master/threshold.png)
 
 
 
