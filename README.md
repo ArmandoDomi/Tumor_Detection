@@ -25,7 +25,7 @@ Experiments with SVM, Linear-SVM, Random Forest,Logistic Regression using  5-fol
 # Metrics
 Accuracy, Precision, Recall, Fmeasure, Specificity
 # The goal
-The goal is try to make the recall equal to 1 . So the FN must be equal to 0. This way the classifier always will spot images that are tumorous.<br>Also we have change the class weight to class no : 1 and class yes : 4
+The goal is try to make the recall equal to 1 . So the FN must be equal to 0. This way the classifier always will spot images that are tumorous.
 
 <table>
   <col>
