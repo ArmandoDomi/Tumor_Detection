@@ -52,13 +52,13 @@ The goal is try to make the recall equal to 1 . So the FN must be equal to 0. Th
 </table>
 
 # We try to find the best threshold for our problem.
-![Image of accuracy ](https://github.com/armando-domi/Tumor_Detection/blob/master/threshold.png)
+![Image of thresholds ](https://github.com/armando-domi/Tumor_Detection/blob/master/threshold.png)
 
 
 
 # Results
 <table>
-  <caption>Results for the first dataset with 253 images using chi2:</caption>
+  <caption>Results for the first dataset with 253 images.:</caption>
   <tr>
     <td></td>
     <th scope="col">Accuracy</th>
@@ -69,35 +69,35 @@ The goal is try to make the recall equal to 1 . So the FN must be equal to 0. Th
   </tr>
   <tr>
     <th scope="row">LR</th>
-    <td>0.802</td>
-    <td>0.765</td>
+    <td>0.842</td>
+    <td>0.8</td>
     <td>1.0</td>
-    <td>0.867</td>
-    <td>0.444</td>
+    <td>0.888</td>
+    <td>0.571</td>
   </tr>
   <tr>
     <th scope="row">SVM</th>
-    <td>0.828</td>
-    <td>0.810</td>
-    <td>0.959</td>
-    <td>0.878</td>
-    <td>0.592</td>
+    <td>0.815</td>
+    <td>0.774</td>
+    <td>1.0</td>
+    <td>0.872</td>
+    <td>0.5</td>
   </tr>
   <tr>
     <th scope="row">Linear-SVM</th>
-    <td>0.815</td>
-    <td>0.777</td>
+    <td>0.868</td>
+    <td>0.827</td>
     <td>1.0</td>
-    <td>0.875</td>
-    <td>0.481</td>
+    <td>0.905</td>
+    <td>0.642</td>
   </tr>
    <tr>
     <th scope="row">RF</th>
-    <td>0.828</td>
-    <td>0.86</td>
-    <td>0.877</td>
-    <td>0.868</td>
-    <td>0.740</td>
+    <td>0.815</td>
+    <td>0.793</td>
+    <td>0.958</td>
+    <td>0.867</td>
+    <td>0.571</td>
   </tr>
   
 </table>
