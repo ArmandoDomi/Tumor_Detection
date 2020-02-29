@@ -97,47 +97,4 @@ The goal is try to make the recall equal to 1 . So the FN must be equal to 0. Th
   
 </table>
 <br>
-<table>
-  <caption>Results for the second dataset with 200 images using chi2:</caption>
-  <tr>
-    <td></td>
-    <th scope="col">Accuracy</th>
-    <th scope="col">Presicion</th>
-    <th scope="col">Recall</th>
-    <th scope="col">Fmeasure</th>
-    <th scope="col">Spesificity</th>
-  </tr>
-  <tr>
-    <th scope="row">LR</th>
-    <td>0.733</td>
-    <td>0.659</td>
-    <td>1.0</td>
-    <td>0.794</td>
-    <td>0.448</td>
-  </tr>
-  <tr>
-    <th scope="row">SVM</th>
-    <td>0.766</td>
-    <td>0.688</td>
-    <td>1.0</td>
-    <td>0.815</td>
-    <td>0.517</td>
-  </tr>
-  <tr>
-    <th scope="row">Linear-SVM</th>
-    <td>0.733</td>
-    <td>0.666</td>
-    <td>0.967</td>
-    <td>0.789</td>
-    <td>0.482</td>
-  </tr>
-   <tr>
-    <th scope="row">RF</th>
-    <td>0.666</td>
-    <td>0.72</td>
-    <td>0.58</td>
-    <td>0.642</td>
-    <td>0.758</td>
-  </tr>
-  
-</table>
+
