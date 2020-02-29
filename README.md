@@ -51,6 +51,11 @@ The goal is try to make the recall equal to 1 . So the FN must be equal to 0. Th
   </tr>
 </table>
 
+# We try to find the best threshold for our problem.
+
+
+
+
 # Results
 <table>
   <caption>Results for the first dataset with 253 images using chi2:</caption>
