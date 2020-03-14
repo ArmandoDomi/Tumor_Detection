@@ -17,7 +17,7 @@ For every image, the following preprocessing steps were applied:
 <br>2. Convert image from RGB to grayscale.
 <br>3. Use Hog for feature extraction.
 <br>
-<br>After the preprocessing we use either Principal component analysis (PCA) for feature reduction. Also there is an option to use only the hog features.
+<br>After the preprocessing we use the hog features to our models. Also there is an option to use Principal component analysis (PCA) for feature reduction .
 
 # HOG
 <br>The output after applying HOG for pixels per cell : 32x32 <br>
