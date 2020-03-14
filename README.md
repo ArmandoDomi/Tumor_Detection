@@ -19,6 +19,10 @@ For every image, the following preprocessing steps were applied:
 <br>
 <br>After the preprocessing we use either Principal component analysis (PCA) for feature reduction. Also there is an option to use only the hog features.
 
+# HOG
+![Image of HOG in no_tumor class ](https://github.com/armando-domi/Tumor_Detection/blob/master/no_hog.png)
+![Image of HOG in yes_tumor class ](https://github.com/armando-domi/Tumor_Detection/blob/master/yes_hog.png)
+
 # Machine Learning Models
 Experiments with SVM, Linear-SVM, Random Forest,Logistic Regression using  5-fold cross validation. 
 
