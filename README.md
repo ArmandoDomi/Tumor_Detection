@@ -21,6 +21,7 @@ For every image, the following preprocessing steps were applied:
 
 # HOG
 <br>The output after applying HOG for pixels per cell : 32x32 <br>
+<br>
 ![Image of HOG in no_tumor class ](https://github.com/armando-domi/Tumor_Detection/blob/master/no_hog.png)
 ![Image of HOG in yes_tumor class ](https://github.com/armando-domi/Tumor_Detection/blob/master/yes_hog.png)
 
