@@ -65,7 +65,7 @@ The goal is try to make the recall equal to 1 . So the FN must be equal to 0. Th
 
 # Results
 <table>
-  <caption>Results for the first dataset with 253 images. :</caption>
+  <caption>Results for the first dataset with 253 images :</caption>
   <tr>
     <td></td>
     <th scope="col">Accuracy</th>
